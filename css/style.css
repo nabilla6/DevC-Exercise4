@@ -1,0 +1,7 @@
+.nav-style{
+    background-color:khaki; 
+    height: 80px;
+}
+.nav-style .container-fluid{
+    margin: auto 0;
+}
